@@ -55,6 +55,7 @@ extension Car {
 }
 
 c.kind
+// :o
 
 extension Car {
     mutating func emptyGas(by amount: Double) {
